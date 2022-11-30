@@ -1,0 +1,34 @@
+.wrap{
+    background: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1920px;
+}
+
+.top{
+    background-color: #AA0601;
+    height: 80px;
+}
+
+.content{
+    
+}
+
+h1{
+    
+}
+
+.footer{
+    background-color: #AA0601;
+}
+
+li{
+    display: flex;
+    color: white;
+}
+
+.menu{
+    display: flex;
+    text-align: right; 
+    color: white;
+}
